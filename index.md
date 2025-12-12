@@ -1,11 +1,18 @@
-
----
-layout: default
-title: Home
----
-
 # Welcome
 
-Thank you for visiting the campaign website for Jane Doe, candidate for City Council.
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           ![DY-picture](/assets/DanYatzeck-teal.png)
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+           <p>Thank you for visiting the campaign website for Dan Yatzeck, candidate for Genesee Town Supervisor.</p>
+       </div>
+    </div>
+</div>
 
-![Campaign placeholder](/assets/DanYatzeck-teal.png)
+Thank you for visiting the campaign website for Dan Yatzeck, candidate for Genesee Town Supervisor.
+
+

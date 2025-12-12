@@ -12,3 +12,7 @@ footer { background: #f0f0f0; padding: 20px; text-align: center; margin-top: 40p
     .menu a { margin: 10px 0; }
     .toggle { display: block; }
 }
+
+.grid { display: flex; }
+.col-1-2 { flex: 1; }
+.col-1-2:last-child { margin-left: 20px; }
