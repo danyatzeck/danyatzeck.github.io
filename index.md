@@ -3,7 +3,7 @@
 <div class="grid">
     <div class="col-1-2">
        <div class="content">
-           ![DY-picture](/assets/DanYatzeck-teal.png)
+           <img src="/assets/DanYatzeck-teal.png" alt="Dan Yatzeck">
        </div>
     </div>
     <div class="col-1-2">
