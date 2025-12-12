@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
-#title: Dan Yatzeck - Town Supervisor
-#description: Elect Dan Yatzeck for Genesee Town Supervisor
+theme: null #jekyll-theme-tactile
+title: Dan Yatzeck - Genesee Town Supervisor
+description: Elect Dan Yatzeck for Genesee Town Supervisor
 markdown: kramdown

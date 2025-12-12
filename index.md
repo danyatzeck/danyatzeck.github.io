@@ -8,4 +8,4 @@ title: Home
 
 Thank you for visiting the campaign website for Jane Doe, candidate for City Council.
 
-![Campaign placeholder](/assets/placeholder.jpg)
+![Campaign placeholder](/assets/DanYatzeck-teal.png)
