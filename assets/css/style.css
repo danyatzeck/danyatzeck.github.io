@@ -29,5 +29,6 @@ footer { background: #f0f0f0; padding: 20px; text-align: center; margin-top: 40p
   /* Optional styling to make them look nice: */
   padding: 4px;
   margin-bottom: 8px; /* Space below rows */
+  vertical-align: top;
 }
 
