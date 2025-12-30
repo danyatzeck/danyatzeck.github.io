@@ -2,11 +2,12 @@
 
 <div class="row">
 <div class="column">
-Thank you for visiting the campaign website for Dan Yatzeck, candidate for Genesee Town Supervisor.
+Thank you for visiting the campaign website for Dan Yatzeck, candidate for Genesee Town Supervisor. 
 
 Learn about Dan Yatzeck
 - <a href="{{ '/about' | relative_url }}">Learn about Dan Yatzeck</a>
 - <a href="{{ '/issues' | relative_url }}">Issues and Priorities</a>
+- Email: dan@yatzeck.com
 
 Links to important voting information:
 - Spring Election: **April 7, 2026**
