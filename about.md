@@ -1,6 +1,6 @@
 # About Dan Yatzeck
 
-First and foremost, I am a lifelong Town of Genesee resident, of a family of lifelong residents. The Yatzeck name has been active and present in the town for many years, and now I continue the tradition.
+First and foremost, I am a 4th-generation lifelong Town of Genesee resident, of a broader extended family of lifelong residents. The Yatzeck name has been active and present in the town for many years, and now I continue the tradition.
 
 For the past two years, I spent considerable time as a homeschool dad, instructing my son through 8th and 9th grade. Through this endeavor we learned about American History and spent substantial time on civics, the U.S. Government, Federalism, and most importantly the fact that our government consists of ordinary citizens, self-governing, and serving with vigor. Over the course of this exercise, I was reminded that our local town government has the closest tangible impact to our actual lives, and participation in this shared effort is not only possible, but publicly desirable for those with good character.
 

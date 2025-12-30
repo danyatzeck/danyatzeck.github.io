@@ -9,6 +9,7 @@ Learn about Dan Yatzeck
 - <a href="{{ '/issues' | relative_url }}">Issues and Priorities</a>
 
 Links to important voting information:
+- Spring Election: **April 7, 2026**
 - <a href="https://myvote.wi.gov/en-us/My-Voter-Info">Voter Information - check Polling place and Ballot contents</a>
 </div>
 <div class="column">
