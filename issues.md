@@ -7,7 +7,7 @@ Two improvements over the past year have been made to help with this effort: 1. 
 
 
 ## Balanced budget
-My commitment is to avoid taking on additinal debt, and to reduce existing debt as much as possible. Stewarding town finances is a key role of the Supervisor, and I intend to work faithfully in this resposibility.
+My commitment is to avoid taking on additional debt, and to reduce existing debt as much as possible. Stewarding town finances is a key role of the Supervisor, and I intend to work faithfully in this responsibility.
 
 
 ## Commitment to local businesses
