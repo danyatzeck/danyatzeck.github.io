@@ -3,7 +3,9 @@
 ## Transparency in decisionmaking
 Our local government is formed by the citizens of the township. It is imperative that the elected supervisors respect the position they hold and remain accountable. This accountability is best maintained by conducting meetings in full public view, including making meeting observance digitally accessible.
 
-Two improvements over the past year have been made to help with this effort: 1. Regular unscheduled public comments at meetings, and 2. Posting meeting packets alongside meeting agendas. The clear next steps in this endeavor is to make meetings viewable via Zoom or some related platform, and then archiving these recordings in a publicly-available video format like Vimeo or YouTube. I would be happy to spearhead this effort.
+Two improvements over the past year have been made to help with this effort: 1. Regular unscheduled public comments at meetings, and 2. Posting meeting packets alongside meeting agendas. The clear next steps in this endeavor is to make meetings viewable via Zoom or some related platform, and then archiving these recordings in a publicly-available video format like Vimeo or YouTube.
+
+Modernizing town board operations is not difficult, but it does require knowledgeable direction to keep everything secure and organized. I would be happy to spearhead this effort.
 
 
 ## Balanced budget
