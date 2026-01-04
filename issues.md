@@ -19,7 +19,7 @@ Genesee has many small business owners and retail outlets, which speaks to the e
 ## Enhanced relationship with Kettle Moraine School District
 When I started attending both Town Board and KM School Board meetings, I was surprised to learn that there is virtually no cooperation or meaningful communication between these entities. I would like to facilitate a better relationship between the town and the school district.
 
-For example: KM voted to close Magee Elementary School after the 2025-2026 school year, and Magee has been a central asset in Genesee Depot for 100 years. There is a lot of uncertainty around what will become of this building and property. I intend to ensure the discussion around the future of Magee be open and with thorough community input.
+For example: [KM voted to close Magee Elementary School](https://www.gmtoday.com/the_freeman/news/km-explains-why-magee-was-chosen-as-school-to-close/article_698b28d2-2c07-58a9-a1a5-4c39b08f69b2.html) after the 2025-2026 school year, and Magee has been a central asset in Genesee Depot for 100 years. There is a lot of uncertainty around what will become of this building and property. I intend to ensure the discussion around the future of Magee be open and with thorough community input.
 
 
 ## A note about housing and maintaining our rustic charm
