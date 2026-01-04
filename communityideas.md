@@ -3,15 +3,15 @@ This page is dedicated to ideas brought to me by the Town of Genesee community. 
 
 ### Ideas and Improvement Opportunities
 
-##### Communications
+#### Communications
 - Include more board activity on quarterly newsletters.
 - Summarize board, plan commission, and fire commission activity for easier consumption on the website (rather than having to comb through minutes)
 - Include explicit supervisor/chairman voting record each time a vote is taken
 - Chairman should communicate to the town a clear vision and plan of action
 
-##### Parks
+#### Parks
 - Improve park play equipment to support young families
 
-##### Public Works
+#### Public Works
 - Clean up the main road in Genesee Depot, especially the areas surrounding the railroad tracks, to make it more bright
 - Improve parking in Genesee Depot; it is dangerous when so many people park on the street and it backs up
