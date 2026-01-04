@@ -9,9 +9,18 @@ This page is dedicated to ideas brought to me by the Town of Genesee community. 
 - Include explicit supervisor/chairman voting record each time a vote is taken
 - Chairman should communicate to the town a clear vision and plan of action
 
+#### Schools / KMSD
+- Magee should be kept as some kind of education facility, like a Montessori school that has a lot of outdoor activities, since that was one of the main attractions for open enroll families
+
 #### Parks
 - Improve park play equipment to support young families
+- Keep parks open in the winter; it's ok to have the bathrooms closed if that's an issue but residents need an outlet for kids in the cold months
 
 #### Public Works
 - Clean up the main road in Genesee Depot, especially the areas surrounding the railroad tracks, to make it more bright
 - Improve parking in Genesee Depot; it is dangerous when so many people park on the street and it backs up
+- The corner of Hwy 83 and Old Village Rd., and Hwy 83 and Walnut St. get seriously overgrown in the summer; this needs to be mowed much more frequently
+- We need better sidewalks and recreation trails like our surrounding communities; why does the trail from Wales just stop?
+
+#### Other
+- Encourage Spectrum and AT&T and other internet companies to install better and cheaper internet service like fiber; there's no reason not to bury fiber when the roads are already being worked on
