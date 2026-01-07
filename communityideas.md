@@ -21,6 +21,7 @@ This page is dedicated to ideas brought to me by the Town of Genesee community. 
 - Improve parking in Genesee Depot; it is dangerous when so many people park on the street and it backs up
 - The corner of Hwy 83 and Old Village Rd., and Hwy 83 and Walnut St. get seriously overgrown in the summer; this needs to be mowed much more frequently
 - We need better sidewalks and recreation trails like our surrounding communities; why does the trail from Wales just stop?
+- Is it possible to track snowplows by GPS on a website? Some places have this.
 
 #### Other
 - Encourage Spectrum and AT&T and other internet companies to install better and cheaper internet service like fiber; there's no reason not to bury fiber when the roads are already being worked on
