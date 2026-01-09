@@ -14,6 +14,7 @@ Links to important voting information:
 - Spring Election: **April 7, 2026**
 - <a href="https://myvote.wi.gov/en-us/My-Voter-Info">Voter Information - check Polling place and Ballot contents</a>
 </div>
+- Sign up for an [Absentee Ballot here](https://myvote.wi.gov/en-us/Request-An-Absentee-Ballot)
 <div class="column">
 ![Dan Yatzeck](/assets/DanYatzeck-circle.png){:width="100%"}
 </div>
