@@ -16,10 +16,12 @@ My commitment is to avoid taking on additional debt, and to reduce existing debt
 Genesee has many small business owners and retail outlets, which speaks to the entrepreneurial spirit that is present in our town. Using local businesses for town needs is a built-in way of both supporting our community's tireless efforts, and allowing more people to use their hard-earned skills to take pride in their town. If a service is offered in the town, that is where we should start.
 
 
-## Enhanced relationship with Kettle Moraine School District
-When I started attending both Town Board and KM School Board meetings, I was surprised to learn that there is virtually no cooperation or meaningful communication between these entities. I would like to facilitate a better relationship between the town and the school district.
+## Enhanced relationship with Local Schools
+When I started attending both Town Board and Kettle Moraine School Board meetings, I was surprised to learn that there is virtually no cooperation or meaningful communication between these entities. I would like to facilitate a better relationship between the town and the surrounding school districts.
 
 For example: [KM voted to close Magee Elementary School](https://www.gmtoday.com/the_freeman/news/km-explains-why-magee-was-chosen-as-school-to-close/article_698b28d2-2c07-58a9-a1a5-4c39b08f69b2.html) after the 2025-2026 school year, and Magee has been a central asset in Genesee Depot for 100 years. There is a lot of uncertainty around what will become of this building and property. I intend to ensure the discussion around the future of Magee be open and with thorough community input.
+
+[Three school districts](https://www.google.com/maps/d/u/7/edit?mid=1SMgjReae9q_gRD9nItJN6OmucJ65Vkk&usp=sharing) cover the educational needs of Town of Genesee residents. Let's do a better job coordinating and mutually supporting the families in our area.
 
 
 ## A note about housing and maintaining our rustic charm
