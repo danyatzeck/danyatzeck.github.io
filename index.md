@@ -8,6 +8,7 @@ Learn about Dan Yatzeck
 - <a href="{{ '/about' | relative_url }}">Learn about Dan Yatzeck</a>
 - <a href="{{ '/issues' | relative_url }}">Issues and Priorities</a>
 - Email: dan@yatzeck.com
+- [Facebook](https://www.facebook.com/profile.php?id=61586094986714)
 
 Links to important voting information:
 - Spring Election: **April 7, 2026**
