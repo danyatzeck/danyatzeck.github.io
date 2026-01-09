@@ -12,9 +12,9 @@ Learn about Dan Yatzeck
 
 Links to important voting information:
 - Spring Election: **April 7, 2026**
-- <a href="https://myvote.wi.gov/en-us/My-Voter-Info">Voter Information - check Polling place and Ballot contents</a>
+- [Voter Information](https://myvote.wi.gov/en-us/My-Voter-Info) - check Polling place and Ballot contents</a>
+- Sign up for an [Absentee Ballot here](https://myvote.wi.gov/en-us/Request-An-Absentee-Ballot) - voting is an incredibly important civic duty granted to all citizens, and absentee voting makes it easy to participate.
 </div>
-- Sign up for an [Absentee Ballot here](https://myvote.wi.gov/en-us/Request-An-Absentee-Ballot)
 <div class="column">
 ![Dan Yatzeck](/assets/DanYatzeck-circle.png){:width="100%"}
 </div>
