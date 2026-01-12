@@ -10,7 +10,7 @@ I have long felt that there is a place for someone like me in public service in 
 
 Some additional personal points of interest:
 - Married for 17 years, with three kids (16), (15), and (12).
-- I am a regular church attendee, which guides my personal philosophy. My family and I currently attend Waukesha City Church.
+- I am a regular church attendee, which guides my personal philosophy.
 - My career has been focused on computer networking and internet systems as an engineer and architect. Post-secondary schooling was completed at WCTC (AAS) and Carroll University (BS). 
 - My interest in computers began at Kettle Moraine Middle School, which led me to volunteer at Three Pillars in Dousman teaching residents about how to use the computer and send email to family members. This was a wonderful and memorable experience.
 - I also was involved in creating the first Town of Genesee website over 25 years ago.
