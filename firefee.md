@@ -33,7 +33,7 @@ There are two ways to handle this in a responsible way: a fire fee, or simply in
 
 #### To Fire Fee or to Not Fire Fee?
 **Pro** argument:
-- When the fire service funding come from property taxes, only property owners are paying for the service, even though the services are available to all entities in the township (businesses, non-profits, etc.). Now everyone covered by the service will contribute to the overall payment. This is more fair.
+- When the fire service funding comes from property taxes, only property owners are paying for the service, even though the services are available to all entities in the township (businesses, non-profits, etc.). Now everyone covered by the service will contribute to the overall payment. This is more fair.
 - Because more people will be paying for the service, property taxes will go down in proportion to the amount of new contributors.
 - We can't get out of paying for fire services - public safety is a core function of town government, and we must support full coverage.
 - As a town, a fire fee is something the board can do to directly meet the immediate need.
@@ -48,7 +48,7 @@ There are two ways to handle this in a responsible way: a fire fee, or simply in
 
 
 #### My position
-Put out a referendum and phrase it just like [City of Delafield](https://www.cityofdelafieldwi.gov/DocumentCenter/View/6825/Fire-EMS-Referendum-Explanation-) did: **Vote Yes** to implement a fire fee, **Vote No** to accept sub-standard service, begin using a different partner, or increase taxes.
+Put out a referendum and phrase it just like [City of Delafield](https://www.cityofdelafieldwi.gov/DocumentCenter/View/6825/Fire-EMS-Referendum-Explanation-) did: **Vote Yes** to implement a fire fee, **Vote No** to accept sub-standard service, negotiate a lower rate using a different partner, or increase taxes.
 
 
 My questions to the board about this:
