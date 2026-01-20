@@ -9,7 +9,7 @@ The Town of Genesee [authorized a $480,000 loan](https://towngenesee.wi.gov/sysf
 
 This is unacceptable. 
 
-[Approved 4-0](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58613_251113075856_1.pdf) - ?? (Who was absent or abstained?)
+[Approved 4-0](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58613_251113075856_1.pdf). Supervisor Morris was absent, though he is on the Fire Commission so may have abstained otherwise (also, why was he gone for such an important vote?).
 
 
 #### What are Fire Fees?
