@@ -5,8 +5,10 @@ We are dropping the ball on Fire Services.
 - No Referendum on the books.
 - No communication on options.
 
-The Town of Genesee authorized a $480,000 loan to cover fire service fees over what was budgeted - https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58615_251113080045_1.pdf
+The Town of Genesee [authorized a $480,000 loan](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58615_251113080045_1.pdf) to cover fire service fees over what was budgeted.
+
 This is unacceptable. 
+
 [Approved 4-0](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58613_251113075856_1.pdf) - ?? (Who was absent or abstained?)
 
 
