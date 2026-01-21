@@ -1,3 +1,4 @@
+![Fire Department](/assets/firedepartment.png){:width="100%"}
 # Fire Fee Considerations
 
 We are dropping the ball on budgeting for Fire Services. The budget overran by **nearly half a million dollars** in 2025.
