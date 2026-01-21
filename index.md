@@ -7,6 +7,7 @@ Thank you for visiting the campaign website for Dan Yatzeck, candidate for Genes
 Learn about Dan Yatzeck
 - <a href="{{ '/about' | relative_url }}">Learn about Dan Yatzeck</a>
 - <a href="{{ '/issues' | relative_url }}">Issues and Priorities</a>
+- <a href="{{ '/firefee' | relative_url }}">Fire Fees</a>
 - Email: dan@yatzeck.com
 - [Facebook](https://www.facebook.com/profile.php?id=61586094986714)
 

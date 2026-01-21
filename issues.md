@@ -11,6 +11,8 @@ Modernizing town board operations is not difficult, but it does require knowledg
 ## Balanced budget
 My commitment is to avoid taking on additional debt, and to reduce existing debt as much as possible. Stewarding town finances is a key role of the Supervisor, and I intend to work faithfully in this responsibility.
 
+Take a look at [my comments around Fire Fees](https://genesee.yatzeck.com/firefee) to see how I approach this with dilligence and transparency.
+
 
 ## Commitment to local businesses
 Genesee has many small business owners and retail outlets, which speaks to the entrepreneurial spirit that is present in our town. Using local businesses for town needs is a built-in way of both supporting our community's tireless efforts, and allowing more people to use their hard-earned skills to take pride in their town. If a service is offered in the town, that is where we should start.

@@ -17,10 +17,16 @@
     <priority>0.9</priority>
   </url>
   
-  <!-- Issues/Platform Page -->
+  <!-- Issues/Platform Pages -->
   <url>
     <loc>https://genesee.yatzeck.com/issues</loc>
     <lastmod>2026-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://genesee.yatzeck.com/firefee</loc>
+    <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
