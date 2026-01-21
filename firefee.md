@@ -5,14 +5,12 @@ We are dropping the ball on budgeting for Fire Services. The budget overran by *
 - No Referendum on the books.
 - No communication with residents.
 
-The Town of Genesee [authorized a $480,000 loan](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58615_251113080045_1.pdf) to cover fire service fees over what was budgeted. The whole discussion to do this took 23 minutes.
-
-[Approved 4-0](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58613_251113075856_1.pdf). The motion to approve this loan was made by Supervisor **Ross** and seconded by Supervisor **Gresser**. Supervisor **Morris** was absent, though he is on the Fire Commission so may have abstained otherwise (also, why was he gone for such an important vote?).
+The Town of Genesee [authorized a $480,000 loan](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58615_251113080045_1.pdf) to cover fire service fees over what was budgeted. The whole discussion to do this took 23 minutes. [Approved 4-0](https://towngenesee.wi.gov/sysfiles/site_uploads/pubs/pub58613_251113075856_1.pdf).
 
 So how did we get here?
 
 ## Fire Services Funding
-The Town of Genesee utilizes [Lake Country Fire and Rescue (LCFR)](https://www.lakecountryfire.com/) to provide fire services in conjunction with six other municipalities in the area. For Genesee residents, this switch occurred in 2021 when the local Wales-Genesee Fire Department merged with LCFR, and we signed a 7-year contract. Since then, LCFR has itself restructured a bit after suffering from station closures, and [moved from part-time to full-time staffing in 2022](https://www.tmj4.com/news/waukesha-county/city-of-delafield-considers-new-fire-and-ems-provider-community-voices-concerns). This significantly increased the budget only a year after Genesee had already committed. Ok, better service is important, but now we have to pay for that increase.
+The Town of Genesee utilizes [Lake Country Fire and Rescue (LCFR)](https://www.lakecountryfire.com/) to provide fire services in conjunction with six other municipalities in the area. For Genesee residents, this switch occurred in 2021 when the local Wales-Genesee Fire Department merged with LCFR, and we signed a 7-year contract. Since then, LCFR has itself restructured a bit, such as [moving from part-time to full-time staffing in 2022](https://www.tmj4.com/news/waukesha-county/city-of-delafield-considers-new-fire-and-ems-provider-community-voices-concerns). This significantly increased the budget only a year after Genesee had already committed. Ok, better service is important, but now we have to pay for that increase.
 
 The total budget is split between participating municipalities using a funding formula. It's not equal, but it's fair enough for this discussion. **We are contractually and legally obligated to pay for these services in some way.** The town pays our portion of the multi-municipality agreement out of the general fund as a simple budget line item, and this comes from normal property taxes.
 
@@ -35,10 +33,11 @@ Cutting spending in other places to cover fire services is one thing, but someti
 ## So, what are Fire Fees?
 A fire fee breaks out the budget line item as a separate "special fee", so it can be treated differently than a normal operating expense. The idea is to decouple fire services from the general fund, lower the property tax levy in proportion to what it otherwise would be, and spread it out among all recipients of the service versus only those that pay property taxes. This way it minimizes the impact of those already paying for the service, while still covering our end of the bargain.
 
-## To Fire Fee or to Not Fire Fee?
+Alright then, To Fire Fee or to Not Fire Fee?
+
 **Pro** argument:
 - When the fire service funding comes from property taxes, only property owners are paying for the service, even though the services are available to all entities in the township (businesses, non-profits, etc.). Now everyone covered by the service will contribute to the overall payment. This is more fair.
-- Because more people will be paying for the service, property taxes will go down in proportion to the amount of new contributors.
+- Because more people will be paying for the service, the property tax levy will go down in proportion to the amount of new contributors.
 - We can't get out of paying for fire services, it's a state mandate. Public safety is a core function of town government, and we must support full coverage.
 - As a town, a fire fee is something the board can do to directly meet the immediate need.
 - As shown above, it's pretty common.
