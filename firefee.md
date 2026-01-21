@@ -11,11 +11,11 @@ The Town of Genesee [authorized a $480,000 loan](https://towngenesee.wi.gov/sysf
 So how did we get here?
 
 ## Fire Services Funding
-The Town of Genesee utilizes [Lake Country Fire and Rescue (LCFR)](https://www.lakecountryfire.com/) to provide fire services in conjunction with six other municipalities in the area. For Genesee residents, this switch occurred in 2021 when the local Wales-Genesee Fire Department merged with LCFR, and we signed a 7-year contract. Since then, LCFR has itself restructured a bit, such as [moving from part-time to full-time staffing in 2022](https://www.tmj4.com/news/waukesha-county/city-of-delafield-considers-new-fire-and-ems-provider-community-voices-concerns). This significantly increased the budget only a year after Genesee had already committed. Ok, better service is important, but now we have to pay for that increase.
+The Town of Genesee utilizes [Lake Country Fire and Rescue (LCFR)](https://www.lakecountryfire.com/) to provide fire services in conjunction with six other municipalities in the area. For Genesee residents, this switch occurred in 2021 when the local Wales-Genesee Fire Department merged with LCFR, and we signed a 7-year agreement. Since then, LCFR has itself restructured a bit, such as [moving from part-time to full-time staffing in 2022](https://www.tmj4.com/news/waukesha-county/city-of-delafield-considers-new-fire-and-ems-provider-community-voices-concerns). This significantly increased the budget only a year after Genesee had already committed. Ok, better service is important, but now we have to pay for that increase.
 
-The total budget is split between participating municipalities using a funding formula. It's not equal, but it's fair enough for this discussion. **We are contractually and legally obligated to pay for these services in some way.** The town pays our portion of the multi-municipality agreement out of the general fund as a simple budget line item, and this comes from normal property taxes.
+The total budget is split between participating municipalities using a funding formula. It's not equal, but it's fair enough for this discussion. **We are obligated both legally and by our agreement to pay for these services in some way.** The town pays our portion of the multi-municipality agreement out of the general fund as a simple budget line item, and this comes from normal property taxes.
 
-However, even though inflation and budget changes are regularly increasing, **Genesee did not account for this properly.** We should have been including in the budget an increase to fire services of something like 2% over Consumer Price Index (CPI), which would be [roughly 3% for 2025](https://www.bls.gov/news.release/cpi.nr0.htm), meaning add 5% to our 2025 budget. We did not do this.
+However, even though inflation and budget changes are regularly increasing, **Genesee did not account for this properly.** We should have been including in the budget an increase to fire services to cover for this, or done some kind of agreement adjustment. We did not do enough.
 
 Now our otherwise foreseeable problem has become urgent. The payment was coming due and we were nearly half a million behind. The board decided to borrow the money.
 
@@ -51,7 +51,7 @@ Alright then, To Fire Fee or to Not Fire Fee?
 ## My position
 I am 100% behind the fire department. It is absolutely essential. What I am not for is **taking out a loan to cover it.**
 
-My proposal: put out an advisory referendum and phrase it just like [City of Delafield](https://www.cityofdelafieldwi.gov/DocumentCenter/View/6825/Fire-EMS-Referendum-Explanation-) did: **Vote Yes** to implement a fire fee, **Vote No** to accept sub-standard service, negotiate a lower fee using a different partner, or increase taxes. This needs to be done in 2026 in preparation for implementation in 2027 when our contract is up.
+My proposal: put out an advisory referendum and phrase it just like [City of Delafield](https://www.cityofdelafieldwi.gov/DocumentCenter/View/6825/Fire-EMS-Referendum-Explanation-) did: **Vote Yes** to implement a fire fee, **Vote No** to accept sub-standard service, negotiate a lower fee using a different partner, or increase taxes. This needs to be done in 2026 in preparation for implementation in 2027 when our agreement expires.
 
 My questions to the board about this:
 - What leverage did we have in negotiating? Did we even try?
