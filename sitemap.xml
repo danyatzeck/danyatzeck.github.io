@@ -30,9 +30,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-    <url>
+  <url>
     <loc>https://genesee.yatzeck.com/questions</loc>
     <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://genesee.yatzeck.com/contact</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>

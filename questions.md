@@ -33,3 +33,9 @@ My top budget priority is to reduce borrowing and pay off debt. Interest payment
 <div style="padding-left: 30px">
 Again, communication is key. Hopefully large community improvements like the multi-year Road Program will be well known and appreciated by all. If a more thorough review of ongoing initiatives is desired, I am happy to meet with anyone that reaches out. I would also be willing to write a synopsis of budget decisions in a friendlier, more consumable format and post it to the website if such would be helpful.
 </div>
+
+**What would you say to residents who didn't vote for you?**
+
+<div style="padding-left: 30px">
+Thank you for voting! You are a valuable citizen in our community, and I appreciate your willingness to participate in our shared civic discourse. I am here to serve all residents of the town regardless of how the votes were cast, so please feel free to work with me as you would any elected official serving in this role.
+</div>
