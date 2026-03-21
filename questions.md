@@ -35,7 +35,7 @@ Again, communication is key. Hopefully large community improvements like the mul
 **How will you balance the budget without overburdening taxpayers?**
 
 <div class="questions">
-There is a fixed amount of money in the various accounts each year, that is all we have. Proper planning and forethought is required to ensure sufficient budget is allocated appropriately. Security services such as police and fire service comes first. Essential resident services such as garbage collection and public works comes second. Town planning and other administrative services would be handled after residential services are covered. Once the required expenditures are covered, we need to make room for unexpected fees and future planning by setting aside savings and paying down debt. And last of all comes salaries of elected officials - we hare here first as civil servants and volunteers.
+There is a fixed amount of money in the various accounts each year, that is all we have. Proper planning and forethought is required to ensure sufficient budget is allocated appropriately. Security services such as police and fire service comes first. Essential resident services such as garbage collection and public works comes second. Town planning and other administrative services would be handled after residential services are covered. Once the required expenditures are covered, we need to make room for unexpected fees and future planning by setting aside savings and paying down debt. And last of all comes salaries of elected officials - we are here first as civil servants and volunteers.
 </div>
 
 **What would you say to residents who didn't vote for you?**
